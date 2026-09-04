@@ -1,0 +1,1 @@
+<resources><style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar"><item name="android:fontFamily">sans</item><item name="colorPrimary">#6750A4</item><item name="colorSecondary">#625B71</item></style></resources>
